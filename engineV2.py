@@ -53,6 +53,7 @@ VALID_TEST_ARGS = {
     "random_seed",
     "bos_conf_path",
     "bcecmd_path",
+    "bitwise_alignment",
 }
 
 DEVICE_TYPE = None
